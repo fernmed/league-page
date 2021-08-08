@@ -1,8 +1,8 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
+export const leagueID = "729387191150710784"; // your league ID
+export const leagueName = "Bawse_League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 
 /*   STEP 2   */
 export const homepageText = `
