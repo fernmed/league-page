@@ -48,7 +48,7 @@
 	}
 
 	#logo {
-		width: 100px;
+		width: 150px;
 		display: block;
 		margin: 0 auto;
 		padding: 10px;
