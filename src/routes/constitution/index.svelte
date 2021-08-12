@@ -291,7 +291,8 @@
     
     <h3 bind:this={sevenOne}>7.1 League Dues</h3>
     <p>League dues are set at {dues}$. Dues are collected through <a href="https://www.leaguesafe.com/league/3949641">LeagueSafe</a> and collection will be sent out no later than the first of August. All managers must be fully paid up before the start of regular season. In the event that a manager fails to pay before the deadline, a 10% penalty will be addd to their payment and will go towards the payouts at the end of the year.</p>
-    
+    <p><iframe width='100%' height='410' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbzcgFJC1MigKvKdrZjEdDOyBqLkLq8Fz2Ya1Icyn9-YKTfTL5fI71wS0OU0qW4Xm6HHEbYeIXDFHo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe></p>
+
     <h3 bind:this={sevenTwo}>7.2 Payout</h3>
     <p>League payout is structured as follows:</p>
     <ul>
