@@ -8,8 +8,6 @@ export const dynasty = false; // true for dynasty leagues, false for redraft and
 export const homepageText = `
   <p>Welcome to the Bawse League! The place where champions are born, and Justin's kid college funds are replenished. This league has been around for 10 years now.</p>
   <p>This site is where we will collect stats and provide any updates on important information within the league. League Constiution is available under League Info.</p>
-<p>Let's have some fun and may the best Bawse GM win!</p>
-<p><iframe width='100%' height='410' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbzcgFJC1MigKvKdrZjEdDOyBqLkLq8Fz2Ya1Icyn9-YKTfTL5fI71wS0OU0qW4Xm6HHEbYeIXDFHo/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe></p>
 `;
 
 /*   STEP 3   */
